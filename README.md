@@ -1,6 +1,6 @@
- # {Application Name}
- My Portfolio
- 
+<<<<<<< HEAD
+ # My Portfolio
+  
 #### Description 
 This is a landing page for my programming portfolio; to showcase my work of my journey towards becoming a developer.
 
@@ -15,7 +15,7 @@ Dinah A. Eric
 ## Known Bugs
 {No known bugs}
 ## Technologies Used
-{HTML and CSS.}
+HTML and CSS.
 ## Support and contact details
 * Dinah A. Eric
 * email: odenydinah@gmail.com.
@@ -23,3 +23,5 @@ Dinah A. Eric
 ### License
 *{MIT license.}*
 Copyright (
+=======
+
