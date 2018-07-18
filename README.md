@@ -1,10 +1,10 @@
-<<<<<<< HEAD
+
  # My Portfolio
   
 #### Description 
 This is a landing page for my programming portfolio; to showcase my work of my journey towards becoming a developer.
 
-#### Author**
+### Author**
 Dinah A. Eric
 
 ## Setup/Installation Requirements
@@ -21,7 +21,7 @@ HTML and CSS.
 * email: odenydinah@gmail.com.
 * twitter: francescas plalace
 ### License
-*{MIT license.}*
+** MIT license.
 Copyright (
 =======
 
